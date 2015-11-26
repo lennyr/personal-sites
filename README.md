@@ -211,6 +211,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Kyle Johnson http://kylejson.com
 - Laurence Welch http://laurencewelch.com
 - Lawrence Lin Murata http://lawrencemurata.com/
+- Lenny Roudk http://lennyroudik.com
 - Lex Alexander http://coderlex.com
 - Li Xuanji http://xuanji.li
 - Liam Horne http://lihorne.com
